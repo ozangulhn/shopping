@@ -41,7 +41,7 @@ The app's architecture is MVVM + Repository Pattern. Let's see in a simple usage
 |**Application**| Application specific classes will be defined here.|
 |**Core**| Utility code that are not specific to this App will be defined here |
 
-###Structure of **Application** folder: 
+Structure of **Application** folder: 
 
 | Folder        | Description                                                     |
 |-------------------------|-------------------------------------------------------|
@@ -57,7 +57,7 @@ Basic functionalities are explained here.
 
 | Feature             | Description                                          | View |
 |-------------------------|-------------------------------------------------------|---------------------|
-|**Product Search**| Lists all the results of products returned after searching with a keyword. (ProductSearchView)
+|**Product Search**| Lists all the results of products returned after searching with a keyword. |ProductSearchView|
 
 ## Things to do
 - Better error handling and mapping to show users more friendly errors. 
